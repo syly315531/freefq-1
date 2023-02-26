@@ -14,7 +14,7 @@
 
 v2ray：
 ```
-https://raw.fastgit.org/fanqiangfeee/freefq/main/v2ray
+https://raw.fastgit.org/fanqiangfeee/syly315531/main/v2ray
 ```
 其他客户端可以使用[订阅链接转换](https://id9.cc/)
 
